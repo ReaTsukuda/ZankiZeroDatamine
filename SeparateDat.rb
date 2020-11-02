@@ -2,8 +2,9 @@
 #
 # Author: Rea
 #
-# Separates Zanki Zero .dat files into individual .ALZ files. Does not perform
-# ALLZ decompression.
+# Separates Zanki Zero .dat files into individual decompressed .bin files.
+# Licensed under the MIT license. See LICENSE at the root of the repository
+# for more information.
 
 # The path to all of Zanki Zero's .dat files.
 ZANKI_ZERO_DAT_PATH = 'C:/Program Files (x86)/Steam/steamapps/common/ZankiZero/app'
