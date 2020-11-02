@@ -1,0 +1,7 @@
+# Binaries that components may need, such as the Aqualead LZSS decompression tool.
+Tools/
+# Where the individual decompressed files are stored.
+Separated/
+
+# What SeparateDat.rb outputs during processing.
+Temp.bin
